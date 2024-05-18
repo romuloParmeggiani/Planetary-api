@@ -92,8 +92,8 @@ Authentication is required for certain endpoints. To authenticate, include a tok
 1. To get started, clone this repository and install the required dependencies:
 
     ```
-    git clone 
-    cd planetary-api
+    git clone https://github.com/romuloParmeggiani/Planetary-api
+    cd Planetary-api
     pip install -r requirements.txt
     ```
 
